@@ -7,3 +7,6 @@ ado_repository_name: "MigrateFromADORepo"
 
 ado_url: "https://dev.azure.com/it23394124/"  # e.g "https://dev.azure.com/your-org"
 
+github_org: "pipeline-az"
+target_github_repo_name: "migrated-repository"
+
